@@ -9,6 +9,7 @@ See example index file for usage.
 ## Requires
 
 [jQuery](https://github.com/jquery/jquery) - tested with 1.10.2
+
 [Mustache.js](https://github.com/janl/mustache.js/) - tested with 3.0
 
 
