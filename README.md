@@ -10,7 +10,7 @@ See example index file for usage.
 
 [jQuery](https://github.com/jquery/jquery) - tested with 1.10.2
 
-[Mustache.js](https://github.com/janl/mustache.js/) - tested with 3.0
+[Mustache.js](https://github.com/janl/mustache.js/) - tested with 8.0
 
 
 
